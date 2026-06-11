@@ -1,4 +1,10 @@
-## Hi there 👋
+## Sandip Maher
+
+# Hi, there 
+
+- Live in Pune, Maharashtra (IN)
+- Education : Master's
+- Branch : Computer Application
 
 <!--
 **maher-sandip/maher-sandip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
